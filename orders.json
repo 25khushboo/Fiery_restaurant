@@ -1,0 +1,27 @@
+{
+    "orders":[{
+    "orderNo": "101",
+    "contactName": "Tom",
+    "orderDate": "14/02/2024",
+    "orderTotal": 1000,
+    "taxTotal": 100,
+    "grandTotal": 1100
+    },
+    {
+        "orderNo": "102",
+    "contactName": "Tom",
+    "orderDate": "14/02/2024",
+    "orderTotal": 1500,
+    "taxTotal": 150,
+    "grandTotal": 1150
+    },
+    {
+    "orderNo": "103",
+    "contactName": "Ram",
+    "orderDate": "14/02/2024",
+    "orderTotal": 150000,
+    "taxTotal": 1500,
+    "grandTotal": 115000
+    }
+    ]
+}

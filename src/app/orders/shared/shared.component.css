@@ -1,0 +1,50 @@
+.container {
+    max-width: 1200px;
+    margin: auto;
+    padding-top: 150px;
+
+  }
+  
+  h1 {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+
+  .description{
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+  }
+  
+ .food-images {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+  }
+  
+  .food-images img {
+    border-radius: 25px;
+    object-fit: cover;
+  } 
+  
+  
+  .order-options {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .order-options button {
+    padding: 10px 10px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .order-options button:hover {
+    background-color: #45a049;
+  } 
